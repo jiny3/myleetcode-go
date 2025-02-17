@@ -1,7 +1,10 @@
 # myleetcode-go
 
-## tips
+## package
 
+- container(container/list 双向链表, container/ring 循环链表, **container/heap 堆**)
+
+## tips
 
 1. for 遍历时减少判断语句的计算量
 
