@@ -33,3 +33,9 @@ for _, i := range visit_i {
     // 对 tmp[i] 进行操作
 }
 ```
+
+3. str -> int
+
+```go
+i, _ := strconv.Atoi(s)
+```
